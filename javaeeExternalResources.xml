@@ -1,10 +1,10 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/b9366ac9_oasis-200401-wss-wssecurity-secext-1.0.xsd" />
-    <resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/70e3a855_oasis-200401-wss-wssecurity-utility-1.0.xsd" />
-    <resource url="http://schemas.xmlsoap.org/soap/envelope/" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/a74f2ac0_.xml" />
+    <resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.1/extResources/b9366ac9_oasis-200401-wss-wssecurity-secext-1.0.xsd" />
+    <resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.1/extResources/70e3a855_oasis-200401-wss-wssecurity-utility-1.0.xsd" />
+    <resource url="http://schemas.xmlsoap.org/soap/envelope/" location="$USER_HOME$/Library/Caches/IdeaIC2019.1/extResources/a74f2ac0_.xml" />
     <resource url="http://schemas.xmlsoap.org/wsdl/" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/42abd8c6_.xml" />
-    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/9b192256_xml.xsd" />
-    <resource url="http://www.w3.org/TR/xmldsig-core/xmldsig-core-schema.xsd" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/a120f017_xmldsig-core-schema.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.1/extResources/9b192256_xml.xsd" />
+    <resource url="http://www.w3.org/TR/xmldsig-core/xmldsig-core-schema.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2019.1/extResources/a120f017_xmldsig-core-schema.xsd" />
   </component>
 </application>
