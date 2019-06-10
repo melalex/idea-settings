@@ -1,7 +1,4 @@
 <application>
-  <component name="ScalaApplicationSettings">
-    <option name="INTRODUCE_FIELD_VISIBILITY" value="private " />
-  </component>
   <component name="TypeAwareHighlightingApplicationState">
     <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />
   </component>
