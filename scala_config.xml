@@ -1,7 +1,8 @@
 <application>
   <component name="ScalaApplicationSettings">
-    <option name="ADD_UNAMBIGUOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
+    <option name="INTRODUCE_FIELD_REPLACE_ALL" value="true" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private " />
   </component>
   <component name="TypeAwareHighlightingApplicationState">
     <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />
