@@ -110,6 +110,10 @@
           <option name="url" value="https://git.tmaws.io/archticsbe/aapi-public/archtics-api-public-service" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.tmaws.io:core-ticketing/core-ticketing-api/highavailability-catalog.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/HATS" />
