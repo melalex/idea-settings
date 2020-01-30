@@ -18,7 +18,7 @@
     <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.json</mask>
-    <mask>*.java</mask>
     <mask>*.feature</mask>
+    <mask>*.java</mask>
   </component>
 </application>
