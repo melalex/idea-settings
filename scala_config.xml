@@ -2,13 +2,4 @@
   <component name="ApplicationCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ScalaApplicationSettings">
-    <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
-    <option name="INTRODUCE_FIELD_REPLACE_ALL" value="true" />
-    <option name="INTRODUCE_FIELD_VISIBILITY" value="private " />
-    <option name="SUGGEST_IMPLICIT_HINTS" value="false" />
-  </component>
-  <component name="TypeAwareHighlightingApplicationState">
-    <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />
-  </component>
 </application>
