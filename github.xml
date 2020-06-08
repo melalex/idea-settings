@@ -3,5 +3,8 @@
     <account id="1e278912-4e0e-4801-8655-563d33ce4b67" name="melalex-ajax">
       <server useHttp="false" host="github.com" />
     </account>
+    <account id="85beee0f-f204-4e86-b49f-412f20831512" name="melalex">
+      <server useHttp="false" host="github.com" />
+    </account>
   </component>
 </application>
