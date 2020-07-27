@@ -3,6 +3,7 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="org.checkerframework.checker.units.qual.A" />
     <EXCLUDED_PACKAGE NAME="org.junit.jupiter.api.Assertions" />
+    <EXCLUDED_PACKAGE NAME="org.testcontainers.shaded.org.apache.commons" />
   </component>
   <component name="EditorSettings">
     <option name="IS_CAMEL_WORDS" value="true" />
