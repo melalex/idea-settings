@@ -4,11 +4,12 @@
   </component>
   <component name="ScalaApplicationSettings">
     <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
+    <option name="INTRODUCE_FIELD_REPLACE_ALL" value="true" />
     <option name="ADD_UNAMBIGUOUS_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGUOUS_IMPORTS_ON_THE_FLY_METHODS" value="true" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
-    <option name="INTRODUCE_FIELD_VISIBILITY" value="private " />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private[metricInfoId] " />
     <option name="HANDLE_BLOCK_BRACES_REMOVAL_AUTOMATICALLY" value="true" />
     <option name="SUGGEST_IN_EDITOR_DOC_RENDERING" value="false" />
     <option name="SUGGEST_AUTOBRACE_INSERTION" value="false" />
